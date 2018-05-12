@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34636'
     url: http://www.gutenberg.org/2009/agents/34636
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30481#Iol-usThe-man-that-was-a-ghost
 gutenberg_issued: '2009-11-16'
 gutenberg_type: Text
 identifiers:
